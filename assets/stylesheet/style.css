@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: rgb(24, 23, 23);
+}
+
+.items{
+    list-style-type: none;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.logo{
+    width: 120px;
+}
+
+.list_item{
+    padding: 0px 20px 0px 0px;
+}
+
+#item2, #item3{
+    text-decoration: none;
+    color: white;
+}
+
+.main_heading, .course_heading{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#text, .heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.ytvideo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trainer_image{
+    width: 100px;
+}
+
+.course_list{
+    list-style-type: none;
+}
