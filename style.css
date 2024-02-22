@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: rgb(24, 23, 23);
+}
+
+.items{
+    list-style-type: none;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.logo{
+    width: 120px;
+}
+
+.list_item{
+    padding: 0px 20px 0px 0px;
+}
+
+#item2, #item3{
+    text-decoration: none;
+    color: white;
+}
+
+.main_heading{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ytvideo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
